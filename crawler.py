@@ -18,7 +18,7 @@ def print_help(warning=False):
         print("Arguments unrecognized, please check usage")
     else:
         print("----------------------------------------")
-        print("Welcome to this web crawler coded by Kai")
+        print("Welcome to this web crawler ")
     print(HELPMSG)
 
 
